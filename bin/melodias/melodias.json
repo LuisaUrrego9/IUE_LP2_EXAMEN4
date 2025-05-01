@@ -1,0 +1,13 @@
+[
+    { "nota": "DO", "figura": "NEGRA", "octava": 4 },
+    { "nota": "RE", "figura": "NEGRA", "octava": 4 },
+    { "nota": "MI", "figura": "NEGRA", "octava": 4 },
+    { "nota": "FA", "figura": "NEGRA", "octava": 4 },
+    { "nota": "SOL", "figura": "NEGRA", "octava": 4 },
+    { "nota": "LA", "figura": "NEGRA", "octava": 4 },
+    { "nota": "SI", "figura": "NEGRA", "octava": 4 },
+    { "nota": "DO", "figura": "BLANCA", "octava": 5 },
+    { "nota": "RE", "figura": "CORCHEA", "octava": 4 },
+    { "nota": "MI", "figura": "REDONDA", "octava": 3 }
+  ]
+  
